@@ -2058,6 +2058,7 @@ img{
 	font-size:16px;
 	color:#25283a;
 	margin:0;
+	text-align: justify;
 }
 
 .sec-title .link-box{
@@ -2727,6 +2728,7 @@ img{
 	position:relative;
 	font-size:15px;
 	margin:0;
+	text-align: justify;
 }
 
 .what-we-do .bottom-image{
@@ -5469,9 +5471,9 @@ img{
 }
 
 .contact-section .form-column{
-	position:relative;
-	float:left;
-	width:50%;
+	position:unset;
+	float:unset;
+	width:unset;
 	padding:110px 0px;
 	text-align:center;
 }
