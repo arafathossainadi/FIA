@@ -175,11 +175,11 @@ a{
 }
 
 .about-section .about-feature:nth-child(3) .inner-box:before{
-	background:#CF9567;	
+	background:#EE66A8;	
 }
 
 .about-section .about-feature:nth-child(4) .inner-box:before{
-	background:#21d7d9;	
+	background:#ffb100;	
 }
 
 .about-feature .icon-box{
@@ -191,11 +191,11 @@ a{
 }
 
 .about-section .about-feature:nth-child(3) .icon-box{
-	color:#CF9567;	
+	color:#EE66A8;	
 }
 
 .about-section .about-feature:nth-child(4) .icon-box{
-	color:#21d7d9;	
+	color:#ffb100;	
 }
 
 .cause-block .inner-box .progress-box .bar-inner{
@@ -219,11 +219,11 @@ a{
 }
 
 .causes-section .cause-block:nth-child(5) .inner-box .progress-box .bar-inner{
-	background:#21d7d9;	
+	background:#ffb100;	
 }
 
 .causes-section .cause-block:nth-child(6) .inner-box .progress-box .bar-inner{
-	background:#CF9567;	
+	background:#EE66A8;	
 }
 
 .cause-block .inner-box .progress-box .count-text{
@@ -247,11 +247,11 @@ a{
 }
 
 .causes-section .cause-block:nth-child(5) .inner-box .progress-box .count-text{
-	background:#21d7d9;	
+	background:#ffb100;	
 }
 
 .causes-section .cause-block:nth-child(6) .inner-box .progress-box .count-text{
-	background:#CF9567;	
+	background:#EE66A8;	
 }
 
 .cause-block .inner-box .progress-box .count-text:after{
@@ -275,11 +275,11 @@ a{
 }
 
 .causes-section .cause-block:nth-child(5) .inner-box .progress-box .count-text:after{
-	border-top-color:#21d7d9;	
+	border-top-color:#ffb100;	
 }
 
 .causes-section .cause-block:nth-child(6) .inner-box .progress-box .count-text:after{
-	border-top-color:#CF9567;	
+	border-top-color:#EE66A8;	
 }
 
 .cause-block .inner-box h3 a:hover{
@@ -331,28 +331,28 @@ a{
 .services .service-block:nth-child(3) .icon-box,
 .what-we-do .service-block:nth-child(11) .icon-box,
 .services .service-block:nth-child(11) .icon-box{
-	color:#21d7d9;
+	color:#ffb100;
 }
 
 .what-we-do .service-block:nth-child(3) .icon-box:after,
 .services .service-block:nth-child(3) .icon-box:after,
 .what-we-do .service-block:nth-child(11) .icon-box:after,
 .services .service-block:nth-child(11) .icon-box:after{
-	background:#21d7d9;	
+	background:#ffb100;	
 }
 
 .what-we-do .service-block:nth-child(4) .icon-box,
 .services .service-block:nth-child(4) .icon-box,
 .what-we-do .service-block:nth-child(12) .icon-box,
 .services .service-block:nth-child(12) .icon-box{
-	color:#CF9567;
+	color:#EE66A8;
 }
 
 .what-we-do .service-block:nth-child(4) .icon-box:after,
 .services .service-block:nth-child(4) .icon-box:after,
 .what-we-do .service-block:nth-child(12) .icon-box:after,
 .services .service-block:nth-child(12) .icon-box:after{
-	background:#CF9567;	
+	background:#EE66A8;	
 }
 
 .what-we-do .service-block:nth-child(5) .icon-box,
@@ -564,7 +564,7 @@ a{
 }
 
 .info-boxes .info-box:nth-child(3) .image-layer:before{
-	background:#B20509;	
+	background:#ffb100;	
 }
 
 .contact-form .form-group input:focus,
@@ -906,11 +906,11 @@ a.ui-button:active, .ui-button:active,
 }
 
 .causes-section-two .cause-block-two:nth-child(5) .inner-box .progress-box .bar-inner{
-	background:#21d7d9;	
+	background:#ffb100;	
 }
 
 .causes-section-two .cause-block-two:nth-child(6) .inner-box .progress-box .bar-inner{
-	background:#CF9567;	
+	background:#EE66A8;	
 }
 
 .cause-block-two .inner-box .progress-box .count-text{
@@ -934,11 +934,11 @@ a.ui-button:active, .ui-button:active,
 }
 
 .causes-section-two .cause-block-two:nth-child(5) .inner-box .progress-box .count-text{
-	background:#21d7d9;	
+	background:#ffb100;	
 }
 
 .causes-section-two .cause-block-two:nth-child(6) .inner-box .progress-box .count-text{
-	background:#CF9567;	
+	background:#EE66A8;	
 }
 
 .cause-block-two .inner-box .progress-box .count-text:after{
@@ -962,11 +962,11 @@ a.ui-button:active, .ui-button:active,
 }
 
 .causes-section-two .cause-block-two:nth-child(5) .inner-box .progress-box .count-text:after{
-	border-top-color:#21d7d9;	
+	border-top-color:#ffb100;	
 }
 
 .causes-section-two .cause-block-two:nth-child(6) .inner-box .progress-box .count-text:after{
-	border-top-color:#CF9567;	
+	border-top-color:#EE66A8;	
 }
 
 .cause-block-two .inner-box h3 a:hover{
