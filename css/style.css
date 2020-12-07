@@ -731,10 +731,15 @@ img{
 
 .main-header .header-upper .logo-box .logo{
 	position: relative;
-	display:block;
-	padding:37px 10px 25px;
-	text-align:center;
-	border-radius:0px 0px 20px 0px;
+	display: block;
+	padding: 80px 10px 25px;
+	text-align: center;
+	border-radius: 0px 0px 20px 0px;
+	background: transparent;
+}
+
+.main-header .header-upper .logo-box .logo:before {
+    background: transparent;
 }
 
 .main-header.header-style-three .header-upper .logo-box .logo{
@@ -8909,4 +8914,15 @@ img.lazy-image.loaded{
 .owl-theme .owl-prev span,
 .owl-theme .owl-next span{
 	display: none;
+}
+
+.icon-box .mi-vi-icon{
+	width: 100%;
+	height: 54px;
+	fill: #15863A;
+	transition: all 300ms linear;
+}
+
+.inner-box:hover .icon-box .mi-vi-icon{
+	fill: #ffffff;
 }
