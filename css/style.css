@@ -1361,12 +1361,12 @@ img{
 }
 
 .sticky-header .main-menu .navigation > li > a{
-	padding:20px 0px !important;
-	line-height:30px;
-	font-size:15px;
-	font-weight:600;
-	color:#25283a;
-	text-transform:capitalize;
+	padding: 25px 0px !important;
+	line-height: 30px;
+	font-size: 15px;
+	font-weight: 600;
+	color: #25283a;
+	text-transform: capitalize;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
 	-ms-transition: all 300ms ease;
@@ -8926,3 +8926,67 @@ img.lazy-image.loaded{
 .inner-box:hover .icon-box .mi-vi-icon{
 	fill: #ffffff;
 }
+
+.icon-box .core-values{
+	width: 100%;
+	height: 54px;
+	fill: #B2060A;
+	transition: all 300ms linear;
+}
+
+.inner-box:hover .icon-box .core-values{
+	fill: #ffffff;
+}
+
+.icon-box .commitment{
+	width: 100%;
+	height: 54px;
+	fill: #EE67A8;
+	transition: all 300ms linear;
+}
+
+.inner-box:hover .icon-box .commitment{
+	fill: #ffffff;
+}
+
+.icon-box .leadership{
+	width: 100%;
+	height: 54px;
+	fill: #FFB101;
+	transition: all 300ms linear;
+}
+
+.inner-box:hover .icon-box .leadership{
+	fill: #ffffff;
+}
+
+.about-section .about-feature:nth-child(5) .inner-box:before {
+    background: #36A9E1;
+}
+
+.icon-box .efia{
+	width: 100%;
+	height: 54px;
+	fill: #36A9E1;
+	transition: all 300ms linear;
+}
+
+.inner-box:hover .icon-box .efia{
+	fill: #ffffff;
+}
+
+.about-section .about-feature:nth-child(6) .inner-box:before {
+    background: #731ACC;
+}
+
+.icon-box .legal-stat{
+	width: 100%;
+	height: 54px;
+	fill: #731ACC;
+	transition: all 300ms linear;
+}
+
+.inner-box:hover .icon-box .legal-stat{
+	fill: #ffffff;
+}
+
