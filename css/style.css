@@ -49,6 +49,31 @@ font-family: 'Open Sans', sans-serif;
 ====================================================================
 
  ***/
+ .pt30{
+ 	padding-top: 30px;
+ }
+
+ .pb30{
+ 	padding-bottom: 30px;
+ }
+
+ .ptb30{
+ 	padding-top: 30px;
+ 	padding-bottom: 30px;
+ }
+
+  .pt60{
+ 	padding-top: 60px;
+ }
+
+ .pb60{
+ 	padding-bottom: 60px;
+ }
+
+ .ptb60{
+ 	padding-top: 60px;
+ 	padding-bottom: 60px;
+ }
 
 body {
 	
@@ -2053,7 +2078,6 @@ img{
 	font-size:60px;
 	line-height: 1.2em;
 	font-weight: 400;
-	text-transform:capitalize;
 }
 
 .sec-title .text{
@@ -5001,7 +5025,6 @@ img{
 	font-weight:400;
 	margin-bottom:15px;
 	color:#ffffff;
-	text-transform:capitalize;
 }
 
 .page-banner .bread-crumb{
@@ -8994,3 +9017,86 @@ img.lazy-image.loaded{
      float: unset; 
     text-align: center;
 }
+
+/*==========================================
+=            commitment of fia            =
+==========================================*/
+
+#commitOfFIA .commit-points ul, #commitOfFIA .commit-points li{
+	list-style: unset;
+}
+
+/*=====  End of commitment of fia  ======*/
+
+
+/*========================================
+=            policy guideline            =
+========================================*/
+
+#policyGuideline .policy-guiline-section ul, #policyGuideline .policy-guiline-section li{
+	list-style: inside;
+} 
+
+/*=====  End of policy guideline  ======*/
+
+/*===============================
+=            drr cca            =
+===============================*/
+
+#drrcca .drr-cca-section ul, #drrcca .drr-cca-section li{
+	list-style: outside;
+	margin-left: 25px;
+}
+
+/*=====  End of drr cca  ======*/
+
+/*==========================================
+=            under construction            =
+==========================================*/
+
+#comingSoon .coming-soon-section h3{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+#comingSoon .coming-soon-section .link-box{
+	text-align: center;
+	margin-top: 30px;
+}
+
+#comingSoon .coming-soon-section .btn-style-one{
+	text-transform: unset;
+}
+
+/*=====  End of under construction  ======*/
+
+/*=============================================
+=            health nutrition wash            =
+=============================================*/
+
+#hnw .hnw-section ol{
+	margin-left: 25px;
+}
+
+#hnw .vermin-composit-section .image-column img{
+	border-radius: 20px;
+}
+
+/*=====  End of health nutrition wash  ======*/
+
+/*====================================
+=            child rights            =
+====================================*/
+
+#childRights .child-rights-section ul, #childRights .child-rights-section li{
+	margin-left: 25px;
+	list-style-type: disc;
+}
+
+#childRights .image-column img{
+	border-radius: 20px;
+}
+
+
+
+/*=====  End of child rights  ======*/
