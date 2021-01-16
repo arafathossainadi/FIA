@@ -9100,3 +9100,31 @@ img.lazy-image.loaded{
 
 
 /*=====  End of child rights  ======*/
+
+
+/*========================================
+=            current projects            =
+========================================*/
+
+#currentProjects table{
+	text-align: center;
+}
+
+#currentProjects td, #currentProjects th{
+	vertical-align: middle;
+}
+
+/*=====  End of current projects  ======*/
+
+/*================================================
+=            most significant changes            =
+================================================*/
+
+#msc .image-column img{
+	border-radius: 20px;
+}
+
+
+/*=====  End of most significant changes  ======*/
+
+
