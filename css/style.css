@@ -1799,7 +1799,7 @@ img{
 
 .banner-carousel .content-box h2{
 	display: block;
-	font-size: 84px;
+	font-size: 60px;
 	line-height: 1.15em;
 	color: #ffffff;
 	font-weight: 400;
@@ -9126,5 +9126,3 @@ img.lazy-image.loaded{
 
 
 /*=====  End of most significant changes  ======*/
-
-
