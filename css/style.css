@@ -2288,7 +2288,13 @@ img{
 	font-size: 16px;
 	line-height: 1.6em;
 	margin: 0;
-	text-align: justify;
+}
+
+.commitment ol{
+	padding-left: 15px;
+}
+.commitment li{
+	list-style: decimal;
 }
 
 /*** 
